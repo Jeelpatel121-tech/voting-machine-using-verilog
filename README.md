@@ -61,7 +61,7 @@ The **Voting Machine** is designed using **Verilog HDL** to demonstrate the prac
 Voting-Machine-Verilog/
 │
 ├── src/
-│   └── voting_machine.v
+│   └── buttoncontrol.v
 │
 ├── tb/
 │   └── voting_machine_tb.v
