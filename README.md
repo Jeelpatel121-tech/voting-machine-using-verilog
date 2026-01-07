@@ -64,7 +64,7 @@ Voting-Machine-Verilog/
 │   └── buttoncontrol.v
 │
 ├── tb/
-│   └── voting_machine_tb.v
+│   └── tb_voting.v
 │
 ├── docs/
 │   └── waveform.png
